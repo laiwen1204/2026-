@@ -22,3 +22,5 @@ JLinkLog.txt
 *.bak
 keilkilll.bat
 saiti.txt
+*.eprj2
+*.epro2
