@@ -1,0 +1,24 @@
+# Keil build outputs
+**/Objects/
+**/Listings/
+*.crf
+*.d
+*.o
+*.lst
+*.map
+*.axf
+*.hex
+*.dep
+*.iex
+*.htm
+*.build_log.htm
+*.lnp
+*.sct
+*.uvguix.*
+*.scvd
+JLinkLog.txt
+
+# Local / misc
+*.bak
+keilkilll.bat
+saiti.txt
