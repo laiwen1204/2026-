@@ -29,7 +29,6 @@
 │   ├── Driver/
 │   ├── Function/       # 固件接收、校验、搬运、回滚、跳转
 │   └── User/
-└── *.eprj2 / *.epro2   # 嘉立创 EDA 硬件设计工程
 ```
 
 ## Flash 分区（GD32F470，512K）
